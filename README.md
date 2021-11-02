@@ -1,3 +1,7 @@
+Click this link to test the app [whatsapp-v-web.vercel.app](https://whatsapp-v-web.vercel.app/)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
